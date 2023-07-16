@@ -1,3 +1,4 @@
+//Equilibrium Number: - Sum of left elements is equal to the sum of right elements
 #include<iostream>
 using namespace std;
 
